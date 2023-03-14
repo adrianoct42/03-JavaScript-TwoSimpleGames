@@ -11,8 +11,7 @@ You start with 30 points, for every mistake, you get a tip and also lose a point
 Go for the best score!
 
 
--- SECOND GAME: PIG GAME
-A 2 player experience.
+-- SECOND GAME: PIG GAME - A 2 player experience.
 
 The game starts with Player 1 as a starter.
 The player has the option to either ROLL A DICE or HOLD.
