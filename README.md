@@ -4,7 +4,7 @@ My personal studies of JS based on Jonas Schmedtmann course in Udemy. :)
 To start any of those games, just open the "index.html" file in your preferred browser.
 
 
--- FIRST GAME: GUESS MY NUMBER
+---- FIRST GAME: GUESS MY NUMBER
 
 You'll have to guess a number between 1 and 30.
 You start with 30 points, for every mistake, you get a tip and also lose a point.
@@ -12,7 +12,7 @@ You start with 30 points, for every mistake, you get a tip and also lose a point
 Go for the best score!
 
 
--- SECOND GAME: PIG GAME - A 2 player experience.
+---- SECOND GAME: PIG GAME - A 2 player experience.
 
 The game starts with Player 1 as a starter.
 The player has the option to either ROLL A DICE or HOLD.
