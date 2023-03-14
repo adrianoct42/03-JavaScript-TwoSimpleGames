@@ -1,4 +1,4 @@
-# 03-JavaScript_-_2_Simple_Games
+# 03-JavaScript - 2 Simple Games
 My personal studies of JS based on Jonas Schmedtmann course in Udemy. :)
 
 To start any of those games, just open the "index.html" file in your preferred browser.
